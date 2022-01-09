@@ -15,7 +15,7 @@
 
 
 ## How this looks
-  <img height="720" src="./captures/cartoon_man.jpg" />
+  <img height="720" src="./captures/cartoon-man.gif" />
   
 ## Prerequisites
 
