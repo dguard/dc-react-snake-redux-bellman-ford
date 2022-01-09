@@ -25,8 +25,8 @@
 
 ## Getting Started
 
-1. Clone this repo, `git clone https://github.com/dguard/react-snake-redux-bellman-ford.git`
-2. Go to project's root directory, `cd react-snake-redux-bellman-ford`
+1. Clone this repo, `git clone https://github.com/dguard/dc-react-snake-redux-bellman-ford.git`
+2. Go to project's root directory, `cd dc-react-snake-redux-bellman-ford`
 3. Run `yarn` to install dependencies
 
 4. Start the packager with `yarn start`
